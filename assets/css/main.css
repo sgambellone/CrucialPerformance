@@ -116,7 +116,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #37c0fb;
+			color: #fb3737;
 			border-bottom-color: transparent;
 		}
 
@@ -2026,7 +2026,7 @@ input, select, textarea {
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #37c0fb;
+			border-color: #fb3737;
 		}
 
 	input[type="text"],
@@ -2147,7 +2147,7 @@ input, select, textarea {
 		.icon.major {
 			text-align: center;
 			cursor: default;
-			background-color: #37c0fb;
+			background-color: #fb3737;
 			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
